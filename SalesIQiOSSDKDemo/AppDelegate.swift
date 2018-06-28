@@ -7,7 +7,7 @@
 //
 
 import UIKit
-
+import Mobilisten
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
@@ -16,6 +16,39 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
+      
+        //Generate your own appkey and acceskey with your bundleidentifier
+        ZohoSalesIQ.initWithAppKey("", accessKey: "")
+        
+        //Set user details
+        ZohoSalesIQ.Visitor.setName("")
+        ZohoSalesIQ.Visitor.setEmail("")
+        ZohoSalesIQ.Visitor.setContactNumber("")
+        ZohoSalesIQ.Visitor.addInfo("", value:"")//ZohoSalesIQ.Visitor.addInfo("User type", value:"Premium")
+        ZohoSalesIQ.visitorId = "" //unique key to identify user and save conversation
+       
+        
+        //Chat Customization
+        
+        ZohoSalesIQ.Chat.setVisibility(.rating, visible:true) // true/false To show/hide rating after chat ends
+        ZohoSalesIQ.Chat.setVisibility(.feedback, visible: true) // To show feedback after chat ends
+        ZohoSalesIQ.Chat.setVisibility(.agentPhotoOnChatIcon, visible:true) //To show operator image in chatbutton/FAB when chat is connected
+        ZohoSalesIQ.Chat.setVisibility(.agent, visible:true) // To show operator image in chat transcript
+        ZohoSalesIQ.Chat.setTitle("Chat with us!"); //To set chat title
+        
+        //set language
+         ZohoSalesIQ.Chat.setLanguage(Language.french.languageCodeName())
+        
+        //Set theme color
+        ZohoSalesIQ.Chat.setThemeColor(UIColor.green)
+
+        //Conversation
+        ZohoSalesIQ.Chat.setVisibility(.conversations, visible:true) //To show conversations
+        
+        //FAQ
+        ZohoSalesIQ.Chat.setVisibility(.faq, visible:true) //To show conversations
+        
+        
         return true
     }
 
@@ -40,7 +73,6 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     func applicationWillTerminate(_ application: UIApplication) {
         // Called when the application is about to terminate. Save data if appropriate. See also applicationDidEnterBackground:.
     }
-
 
 }
 
