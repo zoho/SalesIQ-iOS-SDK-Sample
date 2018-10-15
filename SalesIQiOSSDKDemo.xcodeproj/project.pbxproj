@@ -14,8 +14,6 @@
 		AC2A40E020E4C53E00237D46 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AC2A40DE20E4C53E00237D46 /* LaunchScreen.storyboard */; };
 		AC2A40EB20E4C53E00237D46 /* SalesIQiOSSDKDemoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC2A40EA20E4C53E00237D46 /* SalesIQiOSSDKDemoTests.swift */; };
 		AC2A40F620E4C53E00237D46 /* SalesIQiOSSDKDemoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC2A40F520E4C53E00237D46 /* SalesIQiOSSDKDemoUITests.swift */; };
-		AC2A410520E4C70500237D46 /* Mobilisten.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AC2A410320E4C6FA00237D46 /* Mobilisten.framework */; };
-		AC2A410620E4C70500237D46 /* Mobilisten.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = AC2A410320E4C6FA00237D46 /* Mobilisten.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		AC2A410B20E4C76200237D46 /* libicucore.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = AC2A410920E4C76200237D46 /* libicucore.tbd */; };
 		AC2A410C20E4C76200237D46 /* libicucore.A.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = AC2A410A20E4C76200237D46 /* libicucore.A.tbd */; };
 		AC2A410E20E4E09B00237D46 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC2A410D20E4E09B00237D46 /* SecondViewController.swift */; };
@@ -45,7 +43,6 @@
 			dstPath = "";
 			dstSubfolderSpec = 10;
 			files = (
-				AC2A410620E4C70500237D46 /* Mobilisten.framework in Embed Frameworks */,
 			);
 			name = "Embed Frameworks";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -66,7 +63,6 @@
 		AC2A40F120E4C53E00237D46 /* SalesIQiOSSDKDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SalesIQiOSSDKDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		AC2A40F520E4C53E00237D46 /* SalesIQiOSSDKDemoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SalesIQiOSSDKDemoUITests.swift; sourceTree = "<group>"; };
 		AC2A40F720E4C53E00237D46 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		AC2A410320E4C6FA00237D46 /* Mobilisten.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Mobilisten.framework; sourceTree = "<group>"; };
 		AC2A410920E4C76200237D46 /* libicucore.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libicucore.tbd; path = usr/lib/libicucore.tbd; sourceTree = SDKROOT; };
 		AC2A410A20E4C76200237D46 /* libicucore.A.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libicucore.A.tbd; path = usr/lib/libicucore.A.tbd; sourceTree = SDKROOT; };
 		AC2A410D20E4E09B00237D46 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
@@ -79,7 +75,6 @@
 			files = (
 				AC2A410B20E4C76200237D46 /* libicucore.tbd in Frameworks */,
 				AC2A410C20E4C76200237D46 /* libicucore.A.tbd in Frameworks */,
-				AC2A410520E4C70500237D46 /* Mobilisten.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -131,7 +126,6 @@
 				AC2A40DC20E4C53E00237D46 /* Assets.xcassets */,
 				AC2A40DE20E4C53E00237D46 /* LaunchScreen.storyboard */,
 				AC2A40E120E4C53E00237D46 /* Info.plist */,
-				AC2A410320E4C6FA00237D46 /* Mobilisten.framework */,
 			);
 			path = SalesIQiOSSDKDemo;
 			sourceTree = "<group>";
