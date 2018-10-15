@@ -36,8 +36,6 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         ZohoSalesIQ.Chat.setVisibility(.agent, visible:true) // To show operator image in chat transcript
         ZohoSalesIQ.Chat.setTitle("Chat with us!"); //To set chat title
         
-        //set language
-         ZohoSalesIQ.Chat.setLanguage(Language.french.languageCodeName())
         
         //Set theme color
         ZohoSalesIQ.Chat.setThemeColor(UIColor.green)
