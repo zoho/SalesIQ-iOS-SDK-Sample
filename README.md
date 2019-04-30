@@ -1,5 +1,5 @@
-# SalesIQiOSSDKDemo
-A sample app to see how to use SalesIQ iOS SDK
+# SalesIQ-iOS-SDK-Sample
+A sample app integrated with SalesIQ iOS SDK
 
 Use install Cocoapods command on Root folder of project to install the framework using pods.
 
