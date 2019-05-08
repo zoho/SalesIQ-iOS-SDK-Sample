@@ -1,0 +1,301 @@
+{
+    "items" : [
+    {
+    "latest projects" :[
+    {
+    "name" : "Eldeco View",
+    "image" : "Image 1",
+    "address" : "Sector 93A, Central Park.",
+    "price" : "$3850K",
+    "available rooms" : "3 BHK",
+    "home status" : "FURNISHED",
+    "parking available" : "Available",
+    "sqft area" : "1200 Sq.ft",
+    "poss date" : "Jun, 2020",
+    "home desc" : "The Balian treehouse is only a 3 minute walk. away from the beach. From the veranda you can watch the sunrise in the morning, and enjoy the view of our beautiful garden.",
+    "project size" : "14 Buildings - 2300 units",
+    "project area" : "18.5 Acres (70% Open)",
+    "launch date" : "Oct, 2018",
+    "commute" : "5 Airport, 5 Train Station",
+    "essentials" : "3 Grocery, 5 Pharmacy, 5 School, 5 ATM, 5 Hospitals",
+    "life style" : "2 Fitness Centres, 1 Movie Theatres, 6 Restaurants"
+
+    },
+    {
+    "name" : "Gateway Park",
+     "image" : "Gateway Park",
+    "address" : "349 End Avenue, California",
+    "price" : "$3400K",
+    "available rooms" : "1 BHK",
+    "home status" : "SEMI-FURNISHED",
+    "parking available" : "Available",
+    "sqft area" : "1344 Sq.ft",
+    "poss date" : "Apr, 2019",
+    "home desc" : "Located in the famed south end neighborhood of Battery Park City known as Liberty Court, Liberty House, and Liberty Terrace 380 Rector Place are adjacent to the Esplanade, parks, shops that have become the Battery Park trademark known for the highest quality of life California has to offer.",
+    "project size" : "2 Buildings - 1000 units",
+    "project area" : "6.5 Acres (5% Open)",
+    "launch date" : "Oct, 2017",
+    "commute" : "Airport, 1 Train and 2 Bus stations",
+    "essentials" : "Sundeck, 5 Pharmacy, Clubhouse, 5 ATM, Lounge",
+    "life style" : "Fitness Centre, Sauna, Infinity Pool"
+
+    },
+    {
+    "name" : "Cooper’s Nest",
+    "image" : "Cooper's Nest",
+    "address" : "#60 1st Avenue, New York ",
+    "price" : "$3780K",
+    "available rooms" : "3 BHK",
+    "home status" : "FURNISHED",
+    "parking available" : "Available",
+    "sqft area" : "1200 Sq.ft",
+    "poss date" : "Jan, 2018",
+    "home desc" : "Recently renovated, the oversized apartment homes feature high ceilings, hardwood floors, large windows, windowed kitchens with modern appliances – all with the choice between three finishes: Modern, Classic and Platinum.",
+    "project size" : "5 Buildings - 1700 units",
+    "project area" : "9 Acres (30% Open)",
+    "launch date" : "Oct, 2018",
+    "commute" : "2 Airports and 1 Train station",
+    "essentials" : "Sport Court, Health Club Facility, Media Center",
+    "life style" : "Picnic Area, Gameroom, Lawn"
+
+    },
+    {
+    "name" : "Eugene Village",
+    "image" : "Eugene Village",
+    "address" : "435 West 31st street, Pleasanton 100001",
+    "price" : "$7540K",
+    "available rooms" : "2 BHK",
+    "home status" : "FURNISHED",
+    "parking available" : "Available",
+    "sqft area" : "1900 Sq.ft",
+    "poss date" : "Dec, 2017",
+    "home desc" : "Specializing in comfort, quiet and convenience, seize your chance to live in one of the premier apartment communities in Madison, WI.Only a 10-minute drive away from I-90, everything is within reach living at Park Village Apartments.",
+    "project size" : "2 Buildings - 900 units",
+    "project area" : "4 Acres (12% Open)",
+    "launch date" : "Jul, 2016",
+    "commute" : "3 Train and 4 Bus stations",
+    "essentials" : "Private Outdoor Space, Fitness Centre, Play Area, Business Center",
+    "life style" : "Dining Alcove, Clubhouse"
+
+    },
+    {
+    "name" : "Silver Towers",
+    "image" :  "Silver Towers",
+    "address" : "620 West 42nd Street, New York",
+    "price" : "$5300K",
+    "available rooms" : "4 BHK",
+    "home status" : "SEMI-FURNISHED",
+    "parking available" : "Available",
+    "sqft area" : "1444 Sq.ft",
+    "poss date" : "Jan, 2020",
+    "home desc" : "Silver Towers is a contemporary twist on the classical elegance of the New York high rise.The park includes a children’s area with a bronze playground sculpture by artist Tom Otterness, dog run, interactive mist fountain, and lounging and picnicking areas.",
+    "project size" : "1 Building - 700 units",
+    "project area" : "7 Acres (54% Open)",
+    "launch date" : "Oct, 2019",
+    "commute" : "2 Airports and 4 Bus stations",
+    "essentials" : "Gameroom,Private Drive, Grill, Racquetball Court",
+    "life style" : "Rooftop Lounge, Pool,Sauna,Cabana"
+
+    }]
+    },
+        {
+    "premium villas" :[
+    {
+    "name" : "Manchester Towers",
+    "image" : "Manchester Towers",
+    "address" : "155, 68th street, New York",
+    "price" : "$3850K",
+    "available rooms" : "6 BHK",
+    "home status" : "FURNISHED",
+    "parking available" : "Available",
+    "sqft area" : "1790 Sq.ft",
+    "poss date" : "Jun, 2019",
+    "home desc" : "Discover your new home at Manchester Towers.It's time to find your new home. Contact or stop by Manchester Towers to learn more about our community!",
+    "project size" : "3 Buildings - 1700 units",
+    "project area" : "9 Acres (14% Open)",
+    "launch date" : "Jan, 2019",
+    "commute" : "4 Bus stations",
+    "essentials" : "3 Grocery, 1 Pharmacy, 1 School, 5 ATM, 5 Hospitals",
+    "life style" : "Gameroom, Cabana, Sauna,Racquetball Court"
+
+    },
+{
+"name" : "Eldeco Sylvan View",
+"image" : "Image 2",
+"address" : "Sector 100A, Brooklyn",
+"price" : "$4250K",
+"available rooms" : "3 BHK",
+"home status" : "FURNISHED",
+"parking available" : "Available",
+"sqft area" : "1200 Sq.ft",
+"poss date" : "Jun, 2020",
+"home desc" : "The Balian treehouse is only a 3 minute walk. away from the beach. From the veranda you can watch the sunrise in the morning, and enjoy the view of our beautiful garden.",
+"project size" : "14 Buildings - 2300 units",
+"project area" : "18.5 Acres (70% Open)",
+"launch date" : "Oct, 2018",
+"commute" : "5 Airport, 5 Train Station",
+"essentials" : "3 Grocery, 5 Pharmacy, 5 School, 5 ATM, 5 Hospitals",
+"life style" : "2 Fitness Centres, 1 Movie Theatres, 6 Restaurants"
+
+},
+    {
+    "name" : "Lincoln Plaza",
+    "image" : "Lincoln Plaza",
+    "address" : "20, 64th Street, New York",
+    "price" : "$4500K",
+    "available rooms" : "5 BHK",
+    "home status" : "SEMI-FURNISHED",
+    "parking available" : "Available",
+    "sqft area" : "1990 Sq.ft",
+    "poss date" : "Mar, 2019",
+    "home desc" : "Lincoln Plaza is in the heart of New York City’s cultural district. The building sits on Broadway between 63rd and 64th streets and offers beautiful views of Central Park. The apartments were built to an old time luxurious standard with the most up to date amenities.",
+    "project size" : "1 Building - 1000 units",
+    "project area" : "9 Acres (44% Open)",
+    "launch date" : "Apr, 2018",
+    "commute" : "2 Airports and 3 train stations",
+    "essentials" : "Health Club,Fitness Centre, Laundry, Play Area",
+    "life style" : "Valet On-Site, Green Roof, 1 Restaurants"
+
+    },
+{
+"name" : "Floresta",
+"image" : "Image 3",
+"address" : "Sector 112D, Brooklyn.",
+"price" : "$6800K",
+"available rooms" : "3 BHK",
+"home status" : "FURNISHED",
+"parking available" : "Available",
+"sqft area" : "1200 Sq.ft",
+"poss date" : "Jun, 2020",
+"home desc" : "The Balian treehouse is only a 3 minute walk. away from the beach. From the veranda you can watch the sunrise in the morning, and enjoy the view of our beautiful garden.",
+"project size" : "14 Buildings - 2300 units",
+"project area" : "18.5 Acres (70% Open)",
+"launch date" : "Oct, 2018",
+"commute" : "5 Airport, 5 Train Station",
+"essentials" : "3 Grocery, 5 Pharmacy, 5 School, 5 ATM, 5 Hospitals",
+"life style" : "2 Fitness Centres, 1 Movie Theatres, 6 Restaurants"
+
+}
+    ,
+    {
+    "name" : "Sunset Barrington gardens",
+    "image" : "Sunset Barrington",
+    "address" : "233 , Barrington Avenue, California",
+    "price" : "$6560K",
+    "available rooms" : "9 BHK",
+    "home status" : "FURNISHED",
+    "parking available" : "Available",
+    "sqft area" : "1990 Sq.ft",
+    "poss date" : "Mar, 2019",
+    "home desc" : "Sunset Barrington Gardens is now leasing gorgeous Brentwood 90049 apartments. Bursting with indulgent amenities and stylish interiors, this is the ultimate urban retreat in one of the best neighbourhoods in the city.",
+    "project size" : "1 Building - 1000 units",
+    "project area" : "9 Acres (44% Open)",
+    "launch date" : "Apr, 2018",
+    "commute" : "2 Airports and 3 train stations",
+    "essentials" : "Courtyards, Cardio Fitness Centre, 5 School, 2 ATM, 3 Hospitals",
+    "life style" : "Heated Swimming Pool, Patio, 2 Restaurants"
+
+    }]
+    },
+        {
+    "farm house" :[
+{
+"name" : "Upper WestSide Apartments",
+"image" : "Upper WestSide",
+"address" : "252 1st Avenue, Florida 10009",
+"price" : "$6730K",
+"available rooms" : "2 BHK ",
+"home status" : "FURNISHED",
+"parking available" : "Available",
+"sqft area" : "1234 Sq.ft",
+"poss date" : "Jul, 2018",
+"home desc" : "The Upper West Side offers the best of the City; vibrant neighborhood of Lincoln Square and Broadway, lined with supermarkets, only add to this area’s appeal as there is something for everyone who lives here.",
+"project size" : "3 Buildings - 1200 units",
+"project area" : "7 Acres (20% Open)",
+"launch date" : "Oct, 2017",
+"commute" : "2 Airports ",
+"essentials" : "Sky Terrace, Technogym Fitness Center, Music Recording & Practice Studio, Playroom, Library",
+"life style" : "Multi-Purpose Sports Court, 1 Movie Theatres, Golf Simulator Room"
+
+}
+    ,
+{
+"name" : "Oscar Studio Apartments",
+"image" : "Oscar Studio",
+"address" : "572 11th Avenue, New York",
+"price" : "$6755K",
+"available rooms" : "6 BHK",
+"home status" : "FURNISHED",
+"parking available" : "Available",
+"sqft area" : "1790 Sq.ft",
+"poss date" : "Jan, 2019",
+"home desc" : "Architecturally inspiring, Oscar is a luxury rental property designed by CetraRuddy. Serene and peaceful, the lobby reflects more the sensibilities of an art gallery than a residential building as it boasts an impressive collection of work by Phillip Michaels.",
+"project size" : "4 Buildings - 1800 units",
+"project area" : "8 Acres (34% Open)",
+"launch date" : "Sept, 2018",
+"commute" : "2 Bus and 1 train stations",
+"essentials" : "Private Outdoor Space, Fitness Centre, Play Area",
+"life style" : "Clubhouse, Sauna, Dining Alcove"
+
+},
+{
+"name" : "Aliso Apartments",
+"image" : "Aliso Apartments",
+"address" : "9550, 3rd Street, Los Angeles",
+"price" : "$4568K",
+"available rooms" : "7 BHK",
+"home status" : "SEMI-FURNISHED",
+"parking available" : "Available",
+"sqft area" : "1900 Sq.ft",
+"poss date" : "May, 2019",
+"home desc" : "Amid a tempting array of vintage shops, you'll find the district's latest installation and a new concept in luxury living: Aliso Apartments. Garnering both name and stature from the 400-year-old Sycamore that once graced this area, The Aliso offers grand-scale luxury rooted in the edgy, expressive scene that is DTLA.",
+"project size" : "1 Building - 800 units",
+"project area" : "4 Acres (14% Open)",
+"launch date" : "Apr, 2017",
+"commute" : "2 Airports ",
+"essentials" : "Green Courtyards, Cardio Fitness Centre, Play Area,Business Center",
+"life style" : "Sauna,Clubhouse, 1 Movie Theatres, 6 Restaurants"
+
+},
+    {
+    "name" : "Crown Heights",
+    "image" : "Image 4",
+    "address" : "Sector 3E, Midwood.",
+    "price" : "$4300K",
+    "available rooms" : "3 BHK",
+    "home status" : "FURNISHED",
+    "parking available" : "Available",
+    "sqft area" : "1200 Sq.ft",
+    "poss date" : "Jun, 2020",
+    "home desc" : "The Balian treehouse is only a 3 minute walk. away from the beach. From the veranda you can watch the sunrise in the morning, and enjoy the view of our beautiful garden.",
+    "project size" : "14 Buildings - 2300 units",
+    "project area" : "18.5 Acres (70% Open)",
+    "launch date" : "Oct, 2018",
+    "commute" : "5 Airport, 5 Train Station",
+    "essentials" : "3 Grocery, 5 Pharmacy, 5 School, 5 ATM, 5 Hospitals",
+    "life style" : "2 Fitness Centres, 1 Movie Theatres, 6 Restaurants"
+
+    },
+    {
+    "name" : "Hamilton View ",
+    "image" : "Image 5",
+    "address" : "14 Avenue, Kensington.",
+    "price" : "$5300K",
+    "available rooms" : "3 BHK",
+    "home status" : "FURNISHED",
+    "parking available" : "Available",
+    "sqft area" : "1200 Sq.ft",
+    "poss date" : "Jun, 2020",
+    "home desc" : "The Balian treehouse is only a 3 minute walk. away from the beach. From the veranda you can watch the sunrise in the morning, and enjoy the view of our beautiful garden.",
+    "project size" : "14 Buildings - 2300 units",
+    "project area" : "18.5 Acres (70% Open)",
+    "launch date" : "Oct, 2018",
+    "commute" : "5 Airport, 5 Train Station",
+    "essentials" : "3 Grocery, 5 Pharmacy, 5 School, 5 ATM, 5 Hospitals",
+    "life style" : "2 Fitness Centres, 1 Movie Theatres, 6 Restaurants"
+
+    }]
+    }
+
+    ]
+}
